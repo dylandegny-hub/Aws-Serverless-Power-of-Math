@@ -94,4 +94,4 @@ python -m unittest discover -s tests -v
 
 ## Credits
 
-This was a **tutorial-guided learning project**, built and documented while following [*AWS Project: Architect and Build an End-to-End AWS Web Application from Scratch*](https://youtu.be/7m_q1ldzw0U), which covers AWS Amplify, API Gateway, Lambda, IAM and DynamoDB. I reproduced the core app to practice deployment and service integration; the screenshots show my own implementation and successful test. The full DynamoDB write step is not demonstrated in the Lambda source preserved in my notes.
+This was a **learning project**, built and documented, which covers AWS Amplify, API Gateway, Lambda, IAM and DynamoDB. I reproduced the core app to practice deployment and service integration; the screenshots show my own implementation and successful test. The full DynamoDB write step is not demonstrated in the Lambda source preserved in my notes.
