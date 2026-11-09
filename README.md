@@ -7,7 +7,7 @@ The app accepts a **base** and an **exponent**, invokes an AWS Lambda function t
 **Live demo (recorded deployment):** https://staging.dpeqe5botwvc6.amplifyapp.com/  
 *Availability may change when AWS resources are updated or removed. This link has not been independently live-tested for this repository.*
 
-![Successful computation of 2 to the eighth power](assets/power-of-math-success.png)
+<img width="2555" height="1394" alt="Screenshot 2026-11-08 190847" src="https://github.com/user-attachments/assets/7b76f5cc-8ac8-4efe-9cb5-c9bec65e8fb3" />
 
 ## Architecture
 
